@@ -1,0 +1,2 @@
+# vectorize
+scan then vectorize
